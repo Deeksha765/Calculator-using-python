@@ -10,10 +10,6 @@ This is a simple calculator application built using Python in a Jupyter notebook
 * Clean and readable code
 * Step-by-step calculations
 
-## 🚀 Live Demo
-
-👉 **[Click here to view the calculator notebook]( https://deeksha765.github.io/Calculator-using-python/)** 👈
-
 ## How to Use
 
 1. Open the file `Calculator.ipynb` in Jupyter Notebook or JupyterLab
