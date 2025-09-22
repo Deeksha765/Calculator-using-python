@@ -12,7 +12,7 @@ This is a simple calculator application built using Python in a Jupyter notebook
 
 ## 🚀 Live Demo
 
-👉 **[Click here to view the calculator notebook](https://github.com/Deeksha765/calculator-using-python/blob/main/Calculator.ipynb)** 👈
+👉 **[Click here to view the calculator notebook]( https://deeksha765.github.io/Calculator-using-python/)** 👈
 
 ## How to Use
 
